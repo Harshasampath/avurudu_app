@@ -1,0 +1,24 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+
+  color: "#2990ff"
+  image: asset\images\app_logo_3.png
+  branding: asset\images\brand-image.png
+  
+  color_dark: "#2990ff"
+  image_dark: asset\images\app_logo_3.png
+  background_image_dark: asset\images\app_logo_3.png
+  branding_dark: asset\images\brand-image.png
+
+
+  android_12:
+    color: "#2990ff"
+    image: asset\images\app_logo_4.png
+    branding: asset\images\brand-image-12.png
+
+    icon_background_color_dark: "#2990ff"
+    color_dark: "#2990ff"
+
+    #dart run flutter_native_splash:create --path=native_splash.yaml >>> run this command to apply changes after updating yaml file 

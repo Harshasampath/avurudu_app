@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "298268560760",
+    "project_id": "rent-all-things-in-one-place",
+    "storage_bucket": "rent-all-things-in-one-place.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298268560760:android:76814018b4d7d8beb90c8d",
+        "android_client_info": {
+          "package_name": "com.sinasys.gorest.clean_architecture_getx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298268560760-uervoao36rgkee22gr22vgj9i8s0rmdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sinasys.gorest.clean_architecture_getx",
+            "certificate_hash": "06d83d78ea1ca7eb8e04573b62959e4f56a7a506"
+          }
+        },
+        {
+          "client_id": "298268560760-361t5al8rsqi7vrl38aakf34p7q4boc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkL1OXjvoNOvPklmQBrswTOFYKUDxNxQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298268560760-361t5al8rsqi7vrl38aakf34p7q4boc4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298268560760-71qfhlsav1ehqv3t65b1jcacev656b7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sinasys.gorest.cleanArchitectureGetx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
